@@ -1,13 +1,21 @@
 <h1>Neural RGB-D Encoding</h1>
 
-3D capture technology is becoming more accessible in todays products. However, transmitting this data can be expensive especially on hardware limited devices (mobile, XR headsets, etc). We wanted to leverage image compression codecs because they are often optimized and hardware accelerated. Our overall approach to this problem was to create an end-to-end neural network sandwiched around an image codec for our encoding scheme.
+[![Technologies Used](https://skillicons.dev/icons?i=pytorch,py)](https://skillicons.dev)
 
-![sample5BeforeAndAfter](https://github.com/Nick-Hageman/Neural-RGBD-Encoding/assets/91749467/104d8857-da7b-4bb3-8675-6486ad7ad341)
-![sample5b](https://github.com/Nick-Hageman/Neural-RGBD-Encoding/assets/91749467/4db07275-b3de-46b8-a9e3-895bfc30e87c)
-![sample5e](https://github.com/Nick-Hageman/Neural-RGBD-Encoding/assets/91749467/36eee46e-84fb-478d-9bcc-4d5b8e2b9f2e)
+3D capture technology is becoming more accessible in todays products. However, transmitting this data can be expensive especially on hardware limited devices (mobile, XR headsets, etc). We wanted to leverage image compression codecs because they are often optimized and hardware accelerated. Our overall approach to this problem was to create an end-to-end neural network sandwiched around an image codec for our encoding scheme.
 
 <object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/Nick-Hageman/Neural-RGBD-Encoding/blob/main/AML_Phase1.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Nick-Hageman/Neural-RGBD-Encoding/blob/main/AML_Phase1.pdf">Download PDF</a>.</p>
+        <p>Please download the PDF to view it: <a href="https://github.com/Nick-Hageman/Neural-RGBD-Encoding/blob/main/AML_Phase1.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+
+![slide1](https://github.com/Nick-Hageman/Neural-RGBD-Encoding/assets/91749467/44880f5f-bd51-472b-8a23-e8640dd7f898)
+![slide2](https://github.com/Nick-Hageman/Neural-RGBD-Encoding/assets/91749467/d678d3db-ce8c-44a1-b209-9483c2467a65)
+![slide3](https://github.com/Nick-Hageman/Neural-RGBD-Encoding/assets/91749467/52ba8bd5-c42b-4b88-96c0-520c92c05ca7)
+![slide4](https://github.com/Nick-Hageman/Neural-RGBD-Encoding/assets/91749467/0878170a-17bf-4900-b01c-c6c29a6d0d28)
+![slide5](https://github.com/Nick-Hageman/Neural-RGBD-Encoding/assets/91749467/2eb2c318-fbf9-4e11-8e1b-b9e8f9eaf46e)
+![slide6](https://github.com/Nick-Hageman/Neural-RGBD-Encoding/assets/91749467/3ca73509-1e79-42b7-95f1-8e6dcf524015)
+
+
