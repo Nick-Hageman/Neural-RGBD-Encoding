@@ -1,3 +1,5 @@
+<h1>Neural RGB-D Encoding</h1>
+
 3D capture technology is becoming more accessible in todays products. However, transmitting this data can be expensive especially on hardware limited devices (mobile, XR headsets, etc). We wanted to leverage image compression codecs because they are often optimized and hardware accelerated. Our overall approach to this problem was to create an end-to-end neural network sandwiched around an image codec for our encoding scheme.
 
 ![sample5BeforeAndAfter](https://github.com/Nick-Hageman/Neural-RGBD-Encoding/assets/91749467/104d8857-da7b-4bb3-8675-6486ad7ad341)
